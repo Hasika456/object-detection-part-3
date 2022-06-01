@@ -1,0 +1,40 @@
+body{
+
+    background-size: cover;
+    background-position: center;
+}
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+font-size: 18px;
+}
+
+canvas{
+    box-shadow: 10px 10px 10px coral;
+    border-radius:10px;
+}
+
+.back_btn{
+    font-size:25px;
+    padding:10px;
+    margin:20px;
+    border-radius:20px;
+    background-color:black ;
+    color:white;
+    float:right;
+}
+
+.name{
+    padding:10px;
+    margin:20px;
+    border:3px solid black;
+    border-radius:20px;
+    font-size:25px;
+}
